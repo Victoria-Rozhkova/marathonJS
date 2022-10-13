@@ -1,6 +1,6 @@
 # Maraphon JS
 
-![Demo](https://victoria-rozhkova.github.io/marathonJS/)
+[Demo](https://victoria-rozhkova.github.io/marathonJS/)
 
 * Card gallery
 
