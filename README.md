@@ -1,4 +1,7 @@
 # Maraphon JS
+
+![Demo](https://victoria-rozhkova.github.io/marathonJS/)
+
 * Card gallery
 
 ![preview](https://github.com/Victoria-Rozhkova/marathonJS/blob/preview/cardsGalleryPreview.JPG)
@@ -10,6 +13,10 @@
 * Slider
 
 ![preview](https://github.com/Victoria-Rozhkova/marathonJS/blob/preview/sliderPreview.JPG)
+
+* Hover board
+
+![preview](https://github.com/Victoria-Rozhkova/marathonJS/blob/preview/hoverBoardPreview.JPG)
 
 * Aim Training game
 
